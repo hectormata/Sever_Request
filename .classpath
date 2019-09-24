@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/Downloads/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Temp_java/apache-tomcat-8.0.9.zip"/>
+	<classpathentry kind="lib" path="C:/Temp_java/apache-maven-3.6.0-bin.zip"/>
+	<classpathentry kind="lib" path="C:/Temp_java/NDF-6.5.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/Downloads/org.apache.commons.io_.zip"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/.m2/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/.m2/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/.m2/repository/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/.m2/repository/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/Downloads/java-json/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/Downloads/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C082338/Downloads/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
